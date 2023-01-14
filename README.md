@@ -1,4 +1,4 @@
-# CLIM Class Lessons
+# CLIM 670 Class Lessons
 
 This repository was originally developed by [Prof. Kathy Pegion](http://meteorology.ou.edu/member/kathy-pegion/) and generates lessons used in Cristiana Stan's open source classes in the Department of Atmospheric, Oceanic, and Earth Sciences at George Mason University. 
 
