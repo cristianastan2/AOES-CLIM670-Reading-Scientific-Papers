@@ -5,7 +5,6 @@ exercises: 0
 questions:
 - "What do I need to do for Assignment #1"
 objectives:
-keypoints:
 ---
 
 ### What is expected?
