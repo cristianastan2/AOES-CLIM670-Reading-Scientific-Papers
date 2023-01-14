@@ -5,6 +5,9 @@ exercises: 0
 questions:
 - "What do I need to do for Assignment #1"
 objectives:
+- "Develop basic skills for reading scientific papers"
+- "Become familiar with the components of Earth system models"
+- "Critical understanding of the relevant literature"
 ---
 
 ### What is expected?
