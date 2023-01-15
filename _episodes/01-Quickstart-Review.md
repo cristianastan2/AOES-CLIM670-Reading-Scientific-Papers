@@ -46,10 +46,10 @@ Start by asking yourself some general questions:
 5) What topics within this subject do I need to expand my knowledge about?
 6) Are there controversial points about this subject, and do I need to find corroboration or refutation for them?
 
-> *Note*: 
+> ##Note##: 
 > 
 Keep in mind that you probably will not understand everything in this paper. Scientific papers are written by scientists, for other scientists in their field. The author is writing with the expectation that the reader has a strong background in the topic. Nonetheless, as an educated student, you can filter through the paper and pull out the most important information.
-
+>
 {: .callout}
 
 And then more specific questions:
