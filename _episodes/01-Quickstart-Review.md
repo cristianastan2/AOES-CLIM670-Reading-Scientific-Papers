@@ -37,18 +37,13 @@ Most articles follow a standard format. Understanding that format can help you f
 ### How should you read a scientific research article?
 When reading a text book, you usually start at the beginning and read until the end. But the worst way to read a research paper is to read it word for word, title to literature cited, as if it were a textbook. Before you begin reading an article, you should have an idea of what you want to get out of it.
 
-## Start by asking yourself some general questions:
+#### Start by asking yourself some general questions:
 >
 1) Why am I reading this article?
->
 2) What information do I hope to gain from it?
->
 3) What do I already know about this subject?
-> 
 4) Where are my gaps in knowledge about this subject?
-> 
 5) What topics within this subject do I need to expand my knowledge about?
-> 
 6) Are there controversial points about this subject, and do I need to find corroboration or refutation for them?
  
 > ## Note: 
@@ -58,7 +53,7 @@ When reading a text book, you usually start at the beginning and read until the 
 {: .callout}
 
 
-## And then more specific questions:
+#### And then more specific questions:
 >
 1) *Title*: You need to understand all the key words in the title. If you can’t find them in the paper, search other resources for a definition.
 - What do you expect to learn from this paper?
