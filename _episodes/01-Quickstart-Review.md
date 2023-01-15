@@ -39,17 +39,17 @@ When reading a text book, you usually start at the beginning and read until the 
 
 ## Start by asking yourself some general questions:
 >
-> 1) Why am I reading this article?
+1) Why am I reading this article?
 >
-> 2) What information do I hope to gain from it?
+2) What information do I hope to gain from it?
 >
-> 3) What do I already know about this subject?
+3) What do I already know about this subject?
 > 
-> 4) Where are my gaps in knowledge about this subject?
+4) Where are my gaps in knowledge about this subject?
 > 
-> 5) What topics within this subject do I need to expand my knowledge about?
+5) What topics within this subject do I need to expand my knowledge about?
 > 
-> 6) Are there controversial points about this subject, and do I need to find corroboration or refutation for them?
+6) Are there controversial points about this subject, and do I need to find corroboration or refutation for them?
  
 > ## Note: 
 > 
@@ -60,43 +60,37 @@ When reading a text book, you usually start at the beginning and read until the 
 
 ## And then more specific questions:
 >
-> 1) *Title*: You need to understand all the key words in the title. If you can’t find them in the paper, search other resources for a definition.
-> - What do you expect to learn from this paper?
-> - What is a diurnal temperature range?<br>
->
-> 2) *Abstract*:
-> - In non technical terms, what is the main point of this article? (How would you explain the point of the article to your friend or family?)
-> - What topics do you hope to learn more about from the article?
->
-> 3) *Introduction*:
-> - What larger topic(s) does this study add knowledge to?
-> - What new information does this paper present?
-> - What does this study do, that previous studies did not?
->
-> 4) *Materials and Methods*:
-> - What GCM does this study use?
-> - Where can you find more information about this GCM?
-> - What submodels are coupled to simulate global climate? What do the submodels calculate?
-> - Is this GCM the first of its kind or does it build on a previous version?
-> - What variables go into the model?
-> - What output does the GCM give (what does it simulate)?
-> - Is the output of the GCM accurate? How is this tested?
-> - Why is this model different than others and why is it important?
-> - What simulations were preformed with the model?
-> - How many years into the future was the model used to predict climate? Why was that time period used?
->
-> 5) *Results*:
-> - What does figure 1 show?
-> - How can the researchers be sure the model is working correctly?
-> - What does figure 2 show? What conclusions can you draw from looking at this figure?
->
-> 6) *Discussion*:
-> - In brief and general terms, why is this model unique?
-> - Why is this model needed?
-> - What weaknesses or biases in this study do the authors point out?
-> - What future work do the authors suggest?
->
-> 7) *Conclusions*:
-> - What is the main conclusion of this paper?
->
+1) *Title*: You need to understand all the key words in the title. If you can’t find them in the paper, search other resources for a definition.
+-- What do you expect to learn from this paper?
+-- What is a diurnal temperature range?<br>
+2) *Abstract*:
+-- In non technical terms, what is the main point of this article? (How would you explain the point of the article to your friend or family?)
+-- What topics do you hope to learn more about from the article?
+3) *Introduction*:
+-- What larger topic(s) does this study add knowledge to?
+-- What new information does this paper present?
+-- What does this study do, that previous studies did not?
+4) *Materials and Methods*:
+-- What GCM does this study use?
+-- Where can you find more information about this GCM?
+-- What submodels are coupled to simulate global climate? What do the submodels calculate?
+-- Is this GCM the first of its kind or does it build on a previous version?
+-- What variables go into the model?
+-- What output does the GCM give (what does it simulate)?
+-- Is the output of the GCM accurate? How is this tested?
+-- Why is this model different than others and why is it important?
+-- What simulations were preformed with the model?
+-- How many years into the future was the model used to predict climate? Why was that time period used?
+5) *Results*:
+-- What does figure 1 show?
+-- How can the researchers be sure the model is working correctly?
+-- What does figure 2 show? What conclusions can you draw from looking at this figure?
+6) *Discussion*:
+-- In brief and general terms, why is this model unique?
+-- Why is this model needed?
+-- What weaknesses or biases in this study do the authors point out?
+-- What future work do the authors suggest?
+7) *Conclusions*:
+-- What is the main conclusion of this paper?
+
 Now that you have read the entire article and pulled out the most important pieces of information, it is important that you summarize the article, and include your own thoughts on the points the article made. This step is essential. Keeping summaries of the papers you have read will help you use them effectively in the papers you will write. Your summary and personal critique of the article will help you decide quickly if the article is useful for any papers you may be asked to write in the future. As you continue in your educational career, keeping track of previous research and papers read can save you time and help you to build on previous knowledge for future research. 
