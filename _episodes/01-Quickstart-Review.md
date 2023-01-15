@@ -48,9 +48,8 @@ Keep in mind that you probably will not understand everything in this paper. Sci
 ### Same examples of what to look for 
 1) Title: You need to understand all the key words in the title. If you can’t find them in the paper, search other resources for a definition.
 
-a. What do you expect to learn from this paper?
-b. What is vegetation feedback?
-c. What is a diurnal temperature range?
+a. What do you expect to learn from this paper?<br>
+c. What is a diurnal temperature range?<br>
 
 3) Abstract:
 a. In non technical terms, what is the main point of this article? (How would you explain the point of the article to your friend or family?)
