@@ -87,6 +87,9 @@ When reading a text book, you usually start at the beginning and read until the 
 - What is the main conclusion of this paper?
 
 > ## Keep track of previous research
-> Now that you have read the entire article and pulled out the most important pieces of information, it is important that you summarize the article, and include your own thoughts on the points the article made. This step is essential. Keeping summaries of the papers you have read will help you use them effectively in the papers you will write. Your summary and personal critique of the article will help you decide quickly if the article is useful for any papers you may be asked to write in the future. As you continue in your educational career, keeping track of previous research and papers read can save you time and help you to build on previous knowledge for future research.
+> 
+> Now that you have read the entire article and pulled out the most important pieces of information, it is important that you summarize the article, and include your own thoughts on the points the article made. This step is essential.
+> 
+> Keeping summaries of the papers you have read will help you use them effectively in the papers you will write. Your summary and personal critique of the article will help you decide quickly if the article is useful for any papers you may be asked to write in the future. As you continue in your educational career, keeping track of previous research and papers read can save you time and help you to build on previous knowledge for future research.
 >
 {: .challenge}
