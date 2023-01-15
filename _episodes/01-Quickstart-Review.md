@@ -12,6 +12,8 @@ objectives:
 - "Summarize, discuss and critique a scientific paper."
 source:
 - The material presented here is adopted from [http://www.climatechangecourse.org/Assign/Exer2.htm](http://www.climatechangecourse.org/Assign/Exer2.htm)
+keypoints:
+!(https://www.slideshare.net/ElsevierConnect/infographic-how-to-read-scientific-papers)
 ---
 
 ### Why should you read scientific research articles?
