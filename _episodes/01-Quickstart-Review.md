@@ -5,11 +5,11 @@ exercises: 0
 questions:
 - "How to read effectively a scientific paper?"
 objectives:
-* "Distinguish between primary and secondary sources."
-* "Explore the layout of a scientific paper."
-* "Read a scientific paper effectively."
-* "Extract pertinent information from dense and difficult material."
-* "Summarize, discuss and critique a scientific paper."
+- "Distinguish between primary and secondary sources."
+- "Explore the layout of a scientific paper."
+- "Read a scientific paper effectively."
+- "Extract pertinent information from dense and difficult material."
+- "Summarize, discuss and critique a scientific paper."
 source:
 - The material presented here is adopted from [http://www.climatechangecourse.org/Assign/Exer2.htm](http://www.climatechangecourse.org/Assign/Exer2.htm)
 ---
