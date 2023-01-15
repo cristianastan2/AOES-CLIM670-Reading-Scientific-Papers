@@ -22,23 +22,17 @@ It might seem like reading a textbook is an easier way to learn about new ideas 
 ### How is a scientific research article formatted?
 Most articles follow a standard format. Understanding that format can help you focus in on the information you are searching for, and can help you understand what you are reading.
 
-*Title*: 
-A short, succinct and all-encompassing statement of what the paper is about.
+**Title**: A short, succinct and all-encompassing statement of what the paper is about.
 
-*Abstract*: 
-A summary of the paper, highlighting key points from the methods, results and discussion. The abstract begins with a statement of why the research was done and why the results are significant. Abstracts can be dense and difficult to read because the entire paper must be summarized clearly in only about 200 words. Never cite an article after having read only the abstract! The authors’ interpretation of the research presented in the abstract may not be the same as yours after reading the full paper.
+**Abstract**: A summary of the paper, highlighting key points from the methods, results and discussion. The abstract begins with a statement of why the research was done and why the results are significant. Abstracts can be dense and difficult to read because the entire paper must be summarized clearly in only about 200 words. Never cite an article after having read only the abstract! The authors’ interpretation of the research presented in the abstract may not be the same as yours after reading the full paper.
 
-*Introduction*: 
-Familiarizes the reader with past work that was done, why it was important and what gaps in knowledge it left. Explains what the author did and why it is important.
+**Introduction**: Familiarizes the reader with past work that was done, why it was important and what gaps in knowledge it left. Explains what the author did and why it is important.
 
-*Materials and Methods*: 
-How the author did the research. (note: this section may go by many names. “Methods” is most common but in the paper we are using this section is called “Model and Experiment”).
+**Materials and Methods**: How the author did the research. (note: this section may go by many names. “Methods” is most common but in the paper we are using this section is called “Model and Experiment”).
 
-*Results*: 
-Details what the data showed. Does not include any commentary on what the results mean. This is the what of the paper.
+**Results**: Details what the data showed. Does not include any commentary on what the results mean. This is the what of the paper.
 
-*Discussion and Conclusions*: 
-This is the section in which the author describes what they think the data means. The author explains why the data show what they show, and how this relates to the objectives of the study. This is the why of the paper.
+**Discussion and Conclusions**: This is the section in which the author describes what they think the data means. The author explains why the data show what they show, and how this relates to the objectives of the study. This is the why of the paper.
 
 ### How should you read a scientific research article?
 When reading a text book, you usually start at the beginning and read until the end. But the worst way to read a research paper is to read it word for word, title to literature cited, as if it were a textbook. Before you begin reading an article, you should have an idea of what you want to get out of it.
@@ -57,20 +51,20 @@ Keep in mind that you probably will not understand everything in this paper. Sci
 
 And then more specific questions:
 
-1) Title: You need to understand all the key words in the title. If you can’t find them in the paper, search other resources for a definition.
+1) *Title*: You need to understand all the key words in the title. If you can’t find them in the paper, search other resources for a definition.
 - What do you expect to learn from this paper?
 - What is a diurnal temperature range?<br>
 
-2) Abstract:
+2) *Abstract*:
 - In non technical terms, what is the main point of this article? (How would you explain the point of the article to your friend or family?)
 - What topics do you hope to learn more about from the article?
 
-3) Introduction:
+3) *Introduction*:
 - What larger topic(s) does this study add knowledge to?
 - What new information does this paper present?
 - What does this study do, that previous studies did not?
 
-4) Materials and Methods:
+4) *Materials and Methods*:
 - What GCM does this study use?
 - Where can you find more information about this GCM?
 - What submodels are coupled to simulate global climate? What do the submodels calculate?
@@ -82,18 +76,18 @@ And then more specific questions:
 - What simulations were preformed with the model?
 - How many years into the future was the model used to predict climate? Why was that time period used?
 
-5) Results:
+5) *Results*:
 - What does figure 1 show?
 - How can the researchers be sure the model is working correctly?
 - What does figure 2 show? What conclusions can you draw from looking at this figure?
 
-6) Discussion:
+6) *Discussion*:
 - In brief and general terms, why is this model unique?
 - Why is this model needed?
 - What weaknesses or biases in this study do the authors point out?
 - What future work do the authors suggest?
 
-7) Conclusions:
+7) *Conclusions*:
 - What is the main conclusion of this paper?
 
 Now that you have read the entire article and pulled out the most important pieces of information, it is important that you summarize the article, and include your own thoughts on the points the article made. This step is essential. Keeping summaries of the papers you have read will help you use them effectively in the papers you will write. Your summary and personal critique of the article will help you decide quickly if the article is useful for any papers you may be asked to write in the future. As you continue in your educational career, keeping track of previous research and papers read can save you time and help you to build on previous knowledge for future research. 
